@@ -109,3 +109,11 @@ Specify subsets beforehand.]
 What part of Cookpad's product does this experiment change?
 e.g. Recipe Editor, Feed
 -->
+
+# Checklist
+- [ ] Decide the metric(s)
+- [ ] Define control group
+- [ ] Write up EEF issue
+- [ ] Set up iteration report (if briefed before)
+- [ ] Evaluate findings
+- [ ] Report findings
